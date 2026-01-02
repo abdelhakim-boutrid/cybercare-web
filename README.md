@@ -3,6 +3,9 @@
 Application web de sensibilisation à la cybersécurité destinée au personnel hospitalier.
 Le site propose des modules de formation (phishing, ransomware, mots de passe, etc.) et des quiz pour valider les acquis.
 
+> Prototype (projet étudiant) — en cours d’amélioration.
+
+
 ## Objectif
 Projet éducatif : concevoir un prototype de plateforme de formation pour améliorer la prévention des cyberattaques en milieu hospitalier.
 
