@@ -1,12 +1,15 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { AuthProvider, useAuth } from './context/AuthContext';
-import Layout from './components/Layout';
-import Login from './pages/Login';
-import Dashboard from './pages/Dashboard';
-import Lesson from './pages/Lesson';
-import Quiz from './pages/Quiz';
-import Result from './pages/Result';
+import React from "react";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+
+import { AuthProvider, useAuth } from "./context/AuthContext.jsx";
+import Layout from "./components/Layout.jsx";
+
+import Login from "./pages/Login.jsx";
+import Dashboard from "./pages/Dashboard.jsx";
+import Lesson from "./pages/Lesson.jsx";
+import Quiz from "./pages/Quiz.jsx";
+import Result from "./pages/Result.jsx";
+
 
 // Composant pour protéger les routes
 const ProtectedRoute = ({ children }) => {
