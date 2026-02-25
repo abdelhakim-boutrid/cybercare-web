@@ -28,6 +28,7 @@ Projet éducatif : concevoir un prototype de plateforme de formation pour améli
 npm install
 npm run dev
 
+
 ## Note
 Ce projet a été réalisé dans un cadre éducatif, avec itérations et assistance d’outils de développement (dont IA) puis ajustements manuels.
 
